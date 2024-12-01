@@ -61,8 +61,8 @@ Run Project Locally
 
   > **In your Desktop, open a command prompt of your choice (git bash, cmd, or any)**
   > ```bash
-  > git clone https://link-to-project
-  > cd project-name
+  > git clone https://github.com/KJLEscoto/Theft-Prediction-System.git
+  > cd Theft-Prediction-System
   > ```
   > Open folder to VS Code
   > ```bash
