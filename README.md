@@ -27,7 +27,7 @@
 
   <div align="center">
     Read 
-    <a href="https://drive.google.com/file/d/13JfqGKbeYx3t3D2HC0iH9tSk4r64igUF/view?usp=sharing" target="_blank"><b>documentation</b></a> for more info.
+    <a href="https://drive.google.com/file/d/1mrTZvgCVhBM-IVQL5209tWa12aHNFEAL/view?usp=sharing" target="_blank"><b>documentation</b></a> for more info.
   </div>
 </div>
 
@@ -210,11 +210,11 @@ This project was developed by:
 You can send a message to our following socials:
 
 <div>
-  <a href="mailto:sti.bscs.thesis@gmail.com">
+  <a href="mailto:sti.bscs.thesis@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-black?style=for-the-badge&logoColor=white&logo=gmail&color=EA4335" alt="email" />
   </a>
-  
-  <a href="https://discord.gg/CBUbE33zPF">
+
+  <a href="https://discord.gg/CBUbE33zPF" target="_blank">
     <img src="https://img.shields.io/badge/-Discord-black?style=for-the-badge&logoColor=white&logo=discord&color=5865F2" alt="discord" />
   </a>
 </div>
