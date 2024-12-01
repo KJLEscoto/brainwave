@@ -23,7 +23,7 @@ Make sure you have the following installed on your computer/device:
 ## 👉 Get Started | Run Project Locally
 
 <details>
-<summary><h4>1. Open XAMPP Software</h4></summary>
+<summary><code>1. Open XAMPP Software</code></summary>
 
   > Choose these modules to start:
   > 
@@ -36,7 +36,7 @@ Make sure you have the following installed on your computer/device:
   > ![phpmyadmin](https://drive.google.com/uc?export=view&id=1eWiUBuPAoPiUPQTM8rTGlCcvTxMKCDrZ)
 </details>
 <details>
-<summary><h4>2. Clone the Project</h4></summary>
+<summary><code>2. Clone the Project</code></summary>
 
   > **In your Desktop, open a command prompt of your choice (git bash, cmd, or any)**
   > ```bash
@@ -49,7 +49,7 @@ Make sure you have the following installed on your computer/device:
   > ```
 </details>
 <details>
-<summary><h4>3. Start Flask Server (Camera API)</h4></summary>
+<summary><code>3. Start Flask Server (Camera API)</code></summary>
 
   > **Open a terminal inside VS Code**
   > Go to ALGORITHM folder
@@ -66,7 +66,7 @@ Make sure you have the following installed on your computer/device:
   > ```
 </details>
 <details>
-<summary><h4>4. Install Dependencies for Laravel (Back-End)</h4></summary>
+<summary><code>4. Install Dependencies for Laravel (Back-End)</code></summary>
 
   > **Open another terminal inside VS Code**
   > Go to API folder
@@ -95,7 +95,7 @@ Make sure you have the following installed on your computer/device:
   > ```
 </details>
 <details>
-<summary><h4>5. Install Dependencies for Nuxt (Front-End)</h4></summary>
+<summary><code>5. Install Dependencies for Nuxt (Front-End)</code></summary>
 
   > **Open another terminal inside VS Code**
   > Go to VIEW folder
@@ -116,9 +116,11 @@ Make sure you have the following installed on your computer/device:
   > ```
 </details>
 
-### ⭐ That's it! The project is now ready to use. Enjoy Dark-mode Theme. ⭐
+<div align="center">
+  <h3 align="center">⭐ That's it! The project is now ready to use. Enjoy Dark-mode Theme. ⭐</h3>
 
-Go to the link - (http://localhost:3000/)
+  <p>Go and Start Monitoring - <a href="http://localhost:3000/">http://localhost:3000/</a></p>
+</div>
 
 ![landing-page](https://drive.google.com/uc?export=view&id=17uKbu88C3i3U5fEAU_o6aHezuaVQSuxZ)
 
