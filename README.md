@@ -130,13 +130,14 @@ Make sure you have the following installed on your computer/device:
 
 ![landing-page](https://drive.google.com/uc?export=view&id=17uKbu88C3i3U5fEAU_o6aHezuaVQSuxZ)
 
-<h4>🔑 User Login Credentials</h4>
-<p>Use this accounts to access the system. <span color="red">NOTE:</span> Each role has unique functionalities.</p>
+<h4>🔑 Login Credentials</h4>
+<p>Use these accounts to access the system. <span style="color:red;">NOTE:</span> Each role has unique functionalities.</p>
 
 <details>
 <summary><code>Client</code></summary>
 
   > **username**: client
+  >
   > **password**: client123
 </details>
 
@@ -144,6 +145,7 @@ Make sure you have the following installed on your computer/device:
 <summary><code>Admin</code></summary>
 
   > **username**: admin
+  >
   > **password**: admin123
 </details>
 
@@ -151,6 +153,7 @@ Make sure you have the following installed on your computer/device:
 <summary><code>Superadmin</code></summary>
 
   > **username**: Superadmin
+  >
   > **password**: superadmin123
 </details>
 
