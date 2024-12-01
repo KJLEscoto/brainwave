@@ -116,7 +116,9 @@ Make sure you have the following installed on your computer/device:
   > ```
 </details>
 
-<div align="center">
+<hr />
+
+<div align="center" margin-top="10px">
   <h3 align="center">⭐ That's it! The project is now ready to use. Enjoy Dark-mode Theme. ⭐</h3>
 
   <p>Go and Start Monitoring - <a href="http://localhost:3000/">http://localhost:3000/</a></p>
