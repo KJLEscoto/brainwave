@@ -1,16 +1,13 @@
 <p align="center">
-
   <img src="https://drive.google.com/uc?export=view&id=1W2QKxaTIvY17qPVfIZuYhuUroqIhTSP7" alt="LOGO" width="350" />
 </p>
 
 <p align="center">
-
-  **Theft Prediction: A Motion and Gesture Sensor for Identifying Suspicious Activities**
+  <h1>Theft Prediction: A Motion and Gesture Sensor for Identifying Suspicious Activities</h1>
 </p>
 
 <p align="center">
-
-  See the [documentation](https://drive.google.com/file/d/13JfqGKbeYx3t3D2HC0iH9tSk4r64igUF/view?usp=sharing) for more info.
+  See the <a href="https://drive.google.com/file/d/13JfqGKbeYx3t3D2HC0iH9tSk4r64igUF/view?usp=sharing">documentation</a> for more info.
 </p>
 
 ## 📂 Requirements
