@@ -2,11 +2,10 @@
   <img src="https://drive.google.com/uc?export=view&id=1W2QKxaTIvY17qPVfIZuYhuUroqIhTSP7" alt="LOGO" width="350" />
 </p>
 
-<p align="center">
-<h2>Theft Prediction: A Motion and Gesture Sensor for Identifying Suspicious Activities</h2> 
-A theft prediction system that used motion and gesture pattern recognition to identify suspicious activities, providing a practical approach to theft prediction.
-
-See [documentation](https://drive.google.com/file/d/13JfqGKbeYx3t3D2HC0iH9tSk4r64igUF/view?usp=sharing) for more info.
+<p justify-content="center">
+  <h2>Theft Prediction: A Motion and Gesture Sensor for Identifying Suspicious Activities</h2>
+  <br />
+  See [documentation](https://drive.google.com/file/d/13JfqGKbeYx3t3D2HC0iH9tSk4r64igUF/view?usp=sharing) for more info.
 </p>
 
 
