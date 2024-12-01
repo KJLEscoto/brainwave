@@ -35,6 +35,7 @@ Make sure you have the following installed on your computer/device:
   >
   > ![phpmyadmin](https://drive.google.com/uc?export=view&id=1eWiUBuPAoPiUPQTM8rTGlCcvTxMKCDrZ)
 </details>
+
 <details>
 <summary><code>2. Clone the Project</code></summary>
 
@@ -48,6 +49,7 @@ Make sure you have the following installed on your computer/device:
   > code .
   > ```
 </details>
+
 <details>
 <summary><code>3. Start Flask Server (Camera API)</code></summary>
 
@@ -65,6 +67,7 @@ Make sure you have the following installed on your computer/device:
   > python app.py
   > ```
 </details>
+
 <details>
 <summary><code>4. Install Dependencies for Laravel (Back-End)</code></summary>
 
@@ -94,6 +97,7 @@ Make sure you have the following installed on your computer/device:
   > php artisan serve
   > ```
 </details>
+
 <details>
 <summary><code>5. Install Dependencies for Nuxt (Front-End)</code></summary>
 
@@ -118,10 +122,10 @@ Make sure you have the following installed on your computer/device:
 
 <hr />
 
-<div align="center" margin-top="10px">
+<div align="center">
   <h3 align="center">⭐ That's it! The project is now ready to use. Enjoy Dark-mode Theme. ⭐</h3>
 
-  <p>Go and Start Monitoring - <a href="http://localhost:3000/">http://localhost:3000/</a></p>
+  <p>Start Monitoring - <a href="http://localhost:3000/" target="_blank">http://localhost:3000/</a></p>
 </div>
 
 ![landing-page](https://drive.google.com/uc?export=view&id=17uKbu88C3i3U5fEAU_o6aHezuaVQSuxZ)
@@ -136,7 +140,7 @@ This project was developed by:
 
 ## ❔ Where to ask for help?
 You can send a message on our following socials:
-> Email: **sti.bscs.thesis@gmail.com**
+> Email: sti.bscs.thesis@gmail.com
 >
 > Discord Channel: [Thesis701](https://discord.gg/CBUbE33zPF)
 
