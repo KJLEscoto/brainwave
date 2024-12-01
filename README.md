@@ -2,9 +2,9 @@
   <img src="https://drive.google.com/uc?export=view&id=1W2QKxaTIvY17qPVfIZuYhuUroqIhTSP7" alt="LOGO" width="350" />
 </p>
 
-<p justify-content="center">
-  <h2>Theft Prediction: A Motion and Gesture Sensor for Identifying Suspicious Activities</h2>
-  <br />
+<p align="center">
+  <h2>Theft Prediction: A Motion and Gesture Sensor for Identifying Suspicious Activities</h2> 
+
   See [documentation](https://drive.google.com/file/d/13JfqGKbeYx3t3D2HC0iH9tSk4r64igUF/view?usp=sharing) for more info.
 </p>
 
@@ -33,7 +33,6 @@ Make sure you have the following installed on your computer/device:
   >
   > ![phpmyadmin](https://drive.google.com/uc?export=view&id=1eWiUBuPAoPiUPQTM8rTGlCcvTxMKCDrZ)
 </details>
-
 <details>
 <summary><h4>2. Clone the Project</h4></summary>
 
@@ -47,7 +46,6 @@ Make sure you have the following installed on your computer/device:
   > code .
   > ```
 </details>
-
 <details>
 <summary><h4>3. Start Flask Server (Camera API)</h4></summary>
 
@@ -65,7 +63,6 @@ Make sure you have the following installed on your computer/device:
   > python app.py
   > ```
 </details>
-
 <details>
 <summary><h4>4. Install Dependencies for Laravel (Back-End)</h4></summary>
 
@@ -95,7 +92,6 @@ Make sure you have the following installed on your computer/device:
   > php artisan serve
   > ```
 </details>
-
 <details>
 <summary><h4>5. Install Dependencies for Nuxt (Front-End)</h4></summary>
 
@@ -121,6 +117,7 @@ Make sure you have the following installed on your computer/device:
 ### ⭐ That's it! The project is now ready to use. Enjoy Dark-mode Theme. ⭐
 
 Go to the link - (http://localhost:3000/)
+
 ![landing-page](https://drive.google.com/uc?export=view&id=17uKbu88C3i3U5fEAU_o6aHezuaVQSuxZ)
 
 ## 🧑‍💻 Developers
@@ -134,6 +131,7 @@ This project was developed by:
 ## ❔ Where to ask for help?
 You can send a message on our following socials:
 > Email: **sti.bscs.thesis@gmail.com**
+>
 > Discord Channel: [Thesis701](https://discord.gg/CBUbE33zPF)
 
 ## ©️ Copyright
