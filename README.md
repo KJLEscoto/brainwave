@@ -210,10 +210,8 @@ This project was developed by:
 You can send a message to our following socials:
 <br />
 
-![Email](https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=email&logoColor=white&color=0078D4) : sti.bscs.thesis@gmail.com
-<br />
-
-![Discord](https://img.shields.io/badge/-Discord-black?style=for-the-badge&logoColor=white&logo=discord&color=5865F2) : [Thesis701](https://discord.gg/CBUbE33zPF)
+<img src="https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logoColor=white&logo=gmail&color=EA4335&link=mailto:sti.bscs.thesis@gmail.com" alt="gmail" />
+<img src="https://img.shields.io/badge/-Discord-black?style=for-the-badge&logoColor=white&logo=discord&color=5865F2&link=https://discord.gg/CBUbE33zPF" alt="discord" />
 
 ## ©️ Copyright
 Copyright 2024 | Bachelor of Science in Computer Science | Batch 2025 🎓
