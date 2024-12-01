@@ -15,6 +15,11 @@
     <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logoColor=white&logo=python&color=3776AB" alt="python" />
     <img src="https://img.shields.io/badge/-Pandas-black?style=for-the-badge&logoColor=white&logo=pandas&color=150458" alt="pandas" />
     <img src="https://img.shields.io/badge/-Scikit--learn-black?style=for-the-badge&logoColor=white&logo=scikit-learn&color=F7931E" alt="scikit-learn" />
+  </div>
+
+  <div>
+    <img src="https://img.shields.io/badge/-Composer-black?style=for-the-badge&logoColor=white&logo=composer&color=885630" alt="composer" />
+    <img src="https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logoColor=white&logo=node.js&color=339933" alt="node.js" />
     <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logoColor=white&logo=git&color=F05032" alt="git" />
   </div>
 
