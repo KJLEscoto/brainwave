@@ -123,7 +123,7 @@ Make sure you have the following installed on your computer/device:
 <hr />
 
 <div align="center">
-  <h3 align="center">⭐ That's it! The project is now ready to use. Enjoy Dark-mode Theme. ⭐</h3>
+  <h3 align="center">⭐ That's it! The system is now running. Enjoy Dark-mode Theme. ⭐</h3>
 
   <p>Start Monitoring - <a href="http://localhost:3000/" target="_blank">http://localhost:3000/</a></p>
 </div>
@@ -133,10 +133,10 @@ Make sure you have the following installed on your computer/device:
 ## 🧑‍💻 Developers
 This project was developed by:
 - [Luis Suizo](https://github.com/evander092002)
-- [Kent Escoto](https://github.com/KJLEscoto)
 - [Rochele Cocjin](https://github.com/iochel)
 - [Reynaldo Baja Jr.](https://github.com/rey-cloud)
 - [Ralph Hernandez](https://github.com/yourboiralph)
+- [Kent Joemar Escoto](https://github.com/KJLEscoto)
 
 ## ❔ Where to ask for help?
 You can send a message on our following socials:
