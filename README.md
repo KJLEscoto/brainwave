@@ -130,6 +130,28 @@ Make sure you have the following installed on your computer/device:
 
 ![landing-page](https://drive.google.com/uc?export=view&id=17uKbu88C3i3U5fEAU_o6aHezuaVQSuxZ)
 
+<h4>🔑 Login Credentials</h4>
+
+<details>
+<summary><code>Client User</code></summary>
+username: client
+password: client123
+</details>
+
+<details>
+<summary><code>Admin User</code></summary>
+username: admin
+password: admin123
+</details>
+
+<details>
+<summary><code>Superadmin User</code></summary>
+username: superadmin
+password: superadmin123
+</details>
+
+<hr />
+
 ## 🧑‍💻 Developers
 This project was developed by:
 - [Luis Suizo](https://github.com/evander092002)
@@ -139,7 +161,7 @@ This project was developed by:
 - [Kent Joemar Escoto](https://github.com/KJLEscoto)
 
 ## ❔ Where to ask for help?
-You can send a message on our following socials:
+You can send a message to our following socials:
 > Email: sti.bscs.thesis@gmail.com
 >
 > Discord Channel: [Thesis701](https://discord.gg/CBUbE33zPF)
