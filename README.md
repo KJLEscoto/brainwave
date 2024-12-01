@@ -210,7 +210,7 @@ This project was developed by:
 You can send a message to our following socials:
 
 <div>
-  <a href="sti.bscs.thesis@gmail.com">
+  <a href="mailto:sti.bscs.thesis@gmail.com">
     <img src="https://img.shields.io/badge/-Email-black?style=for-the-badge&logoColor=white&logo=gmail&color=EA4335" alt="email" />
   </a>
   <a href="https://discord.gg/CBUbE33zPF">
