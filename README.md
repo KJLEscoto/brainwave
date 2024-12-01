@@ -1,13 +1,17 @@
 <p align="center">
+
   <img src="https://drive.google.com/uc?export=view&id=1W2QKxaTIvY17qPVfIZuYhuUroqIhTSP7" alt="LOGO" width="350" />
 </p>
 
 <p align="center">
-  <h2>Theft Prediction: A Motion and Gesture Sensor for Identifying Suspicious Activities</h2> 
 
-  See [documentation](https://drive.google.com/file/d/13JfqGKbeYx3t3D2HC0iH9tSk4r64igUF/view?usp=sharing) for more info.
+  **Theft Prediction: A Motion and Gesture Sensor for Identifying Suspicious Activities**
 </p>
 
+<p align="center">
+
+  See the [documentation](https://drive.google.com/file/d/13JfqGKbeYx3t3D2HC0iH9tSk4r64igUF/view?usp=sharing) for more info.
+</p>
 
 ## 📂 Requirements
 Make sure you have the following installed on your computer/device:
