@@ -2,14 +2,6 @@
   <br />
     <img src="https://drive.google.com/uc?export=view&id=1W2QKxaTIvY17qPVfIZuYhuUroqIhTSP7" alt="LOGO" width="350" />
   <br />
-
-  <h3 align="center">Theft Prediction: A Motion and Gesture Sensor for Identifying Suspicious Activities</h3>
-
-  <div align="center">
-    Read 
-    <a href="https://drive.google.com/file/d/13JfqGKbeYx3t3D2HC0iH9tSk4r64igUF/view?usp=sharing" target="_blank"><b>documentation</b></a> for more info.
-  </div>
-
   <br />
 
   <div>
@@ -31,6 +23,12 @@
     <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logoColor=white&logo=git&color=F05032" alt="git" />
   </div>
 
+  <h3 align="center">Theft Prediction: A Motion and Gesture Sensor for Identifying Suspicious Activities</h3>
+
+  <div align="center">
+    Read 
+    <a href="https://drive.google.com/file/d/13JfqGKbeYx3t3D2HC0iH9tSk4r64igUF/view?usp=sharing" target="_blank"><b>documentation</b></a> for more info.
+  </div>
 </div>
 
 ## 📂 Requirements
