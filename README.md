@@ -54,6 +54,7 @@ Run Project Locally
 <summary><code>3. Start Flask Server (Camera API)</code></summary>
 
   > **Open a terminal inside VS Code**
+  >
   > Go to ALGORITHM folder
   > ```bash
   > cd algorithm
@@ -72,6 +73,7 @@ Run Project Locally
 <summary><code>4. Install Dependencies for Laravel (Back-End)</code></summary>
 
   > **Open another terminal inside VS Code**
+  >
   > Go to API folder
   > ```bash
   > cd api
@@ -102,6 +104,7 @@ Run Project Locally
 <summary><code>5. Install Dependencies for Nuxt (Front-End)</code></summary>
 
   > **Open another terminal inside VS Code**
+  >
   > Go to VIEW folder
   > ```bash
   > cd view
@@ -125,6 +128,7 @@ Optional:
 <summary><code>Add New Motion (Train Model)</code></summary>
 
   > **Open a terminal inside VS Code**
+  >
   > Go to ALGORITHM folder
   > ```bash
   > cd algorithm
