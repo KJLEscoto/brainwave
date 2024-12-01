@@ -3,7 +3,6 @@
     <img src="https://drive.google.com/uc?export=view&id=1W2QKxaTIvY17qPVfIZuYhuUroqIhTSP7" alt="LOGO" width="350" />
   <br />
   <br />
-  <br />
 
   <div>
     <img src="https://img.shields.io/badge/-Nuxt-black?style=for-the-badge&logoColor=white&logo=nuxt.js&color=00C58E" alt="nuxt.js" />
