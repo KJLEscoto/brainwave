@@ -104,15 +104,20 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 ## <a name="snippets">🕸️ Snippets</a>
 
 <details>
-<summary>Clone the Project</summary>
-
-1. Open a terminal (Git Bash, CMD, or any terminal you prefer):
-
-   ```bash
-   git clone https://link-to-project
-   ```
-
-**ghaha**
+<summary><code>Clone the Project:</code></summary>
+  **In your Desktop, open a terminal you would like to use (git bash, cmd, or any)**
+  > ```bash
+  >   git clone https://link-to-project
+    
+  > Go to the project directory
+  > ```bash
+  > cd my-project
+  > ```
+   
+  > Open folder to VS Code
+  > ```bash
+  > code .
+  > ```
 </details>
 
 <details>
