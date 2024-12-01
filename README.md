@@ -23,7 +23,7 @@ Make sure you have the following installed on your computer/device:
 ## 👉 Get Started 
 Run Project Locally
 <details>
-<summary><code>1. Open XAMPP Software</code></summary>
+<summary><code>1. Open XAMPP Software (MySQL database)</code></summary>
 
   > Choose these modules to start:
   > 
@@ -37,7 +37,7 @@ Run Project Locally
 </details>
 
 <details>
-<summary><code>2. Clone the Project</code></summary>
+<summary><code>2. Clone the repository (Source Code)</code></summary>
 
   > **In your Desktop, open a command prompt of your choice (git bash, cmd, or any)**
   > ```bash
@@ -70,7 +70,7 @@ Run Project Locally
 </details>
 
 <details>
-<summary><code>4. Install Dependencies for Laravel (Back-End)</code></summary>
+<summary><code>4. Install Dependencies for Laravel (Back-end Framework)</code></summary>
 
   > **Open another terminal inside VS Code**
   >
@@ -101,7 +101,7 @@ Run Project Locally
 </details>
 
 <details>
-<summary><code>5. Install Dependencies for Nuxt (Front-End)</code></summary>
+<summary><code>5. Install Dependencies for Nuxt (Front-end Framework)</code></summary>
 
   > **Open another terminal inside VS Code**
   >
