@@ -79,9 +79,9 @@ Run Project Locally
   > ```bash
   > cd algorithm
   > ```
-  > Install modules
+  > Install modules and change the path directory
   > ```bash
-  > pip install 'C:\{**your-download-directory**}\requirements.txt'
+  > pip install 'C:\[path-directory]\requirements.txt'
   > ```
   > Load the motions and Start the Server 
   > ```bash
