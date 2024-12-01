@@ -3,6 +3,19 @@
     <img src="https://drive.google.com/uc?export=view&id=1W2QKxaTIvY17qPVfIZuYhuUroqIhTSP7" alt="LOGO" width="350" />
   <br />
 
+  <div>
+    <img src="https://img.shields.io/badge/-Nuxt-black?style=for-the-badge&logoColor=white&logo=nuxt.js&color=00C58E" alt="nuxt.js" />
+    <img src="https://img.shields.io/badge/-Laravel-black?style=for-the-badge&logoColor=white&logo=laravel&color=FF2D20" alt="laravel" />
+    <img src="https://img.shields.io/badge/-Tailwind%20CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=38BDF8" alt="tailwindcss" />
+  </div>
+
+  <div>
+    <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logoColor=white&logo=python&color=3776AB" alt="python" />
+    <img src="https://img.shields.io/badge/-Composer-black?style=for-the-badge&logoColor=white&logo=composer&color=885630" alt="composer" />
+    <img src="https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logoColor=white&logo=node.js&color=339933" alt="node.js" />
+    <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logoColor=white&logo=git&color=F05032" alt="git" />
+  </div>
+
   <h3 align="center">Theft Prediction: A Motion and Gesture Sensor for Identifying Suspicious Activities</h3>
 
   <div align="center">
