@@ -105,20 +105,20 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 
 <details>
 <summary><h1>Clone the Project:</h1></summary>
-  > **In your Desktop, open a terminal you would like to use (git bash, cmd, or any)**
-  > ```bash
-  >  git clone https://link-to-project
-  > ```
-  > 
-  > Go to the project directory
-  > ```bash
-  > cd my-project
-  > ```
-  > 
-  > Open folder to VS Code
-  > ```bash
-  > code .
-  > ```
+> **In your Desktop, open a terminal you would like to use (git bash, cmd, or any)**
+> ```bash
+>  git clone https://link-to-project
+> ```
+> 
+> Go to the project directory
+> ```bash
+> cd my-project
+> ```
+> 
+> Open folder to VS Code
+> ```bash
+> code .
+> ```
 </details>
 
 <details>
