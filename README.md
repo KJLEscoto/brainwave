@@ -213,6 +213,7 @@ You can send a message to our following socials:
   <a href="mailto:sti.bscs.thesis@gmail.com">
     <img src="https://img.shields.io/badge/-Email-black?style=for-the-badge&logoColor=white&logo=gmail&color=EA4335" alt="email" />
   </a>
+  
   <a href="https://discord.gg/CBUbE33zPF">
     <img src="https://img.shields.io/badge/-Discord-black?style=for-the-badge&logoColor=white&logo=discord&color=5865F2" alt="discord" />
   </a>
