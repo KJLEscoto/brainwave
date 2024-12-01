@@ -9,8 +9,8 @@
     Read 
     <a href="https://drive.google.com/file/d/13JfqGKbeYx3t3D2HC0iH9tSk4r64igUF/view?usp=sharing" target="_blank">
       <b>documentation</b>
-    </a> 
-    for more info.
+    </a>
+     for more info.
   </div>
 </div>
 
