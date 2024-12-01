@@ -20,8 +20,8 @@ Make sure you have the following installed on your computer/device:
 - ✅ Python ([download here](https://www.python.org/downloads/)).
 - ✅ Git ([download here](https://git-scm.com/downloads)).
 
-## 👉 Get Started | Run Project Locally
-
+## 👉 Get Started 
+Run Project Locally
 <details>
 <summary><code>1. Open XAMPP Software</code></summary>
 
@@ -120,6 +120,21 @@ Make sure you have the following installed on your computer/device:
   > ```
 </details>
 
+Optional:
+<details>
+<summary><code>Add New Motion (Train Model)</code></summary>
+
+  > **Open a terminal inside VS Code**
+  > Go to ALGORITHM folder
+  > ```bash
+  > cd algorithm
+  > ```
+  > Run this command and choose how you train a model (via Live, Video, Image)
+  > ```bash
+  > python train.py
+  > ```
+</details>
+
 <hr />
 
 <div align="center">
@@ -152,7 +167,7 @@ Make sure you have the following installed on your computer/device:
 <details>
 <summary><code>Superadmin</code></summary>
 
-  > **username**: Superadmin
+  > **username**: superadmin
   >
   > **password**: superadmin123
 </details>
