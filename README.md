@@ -104,19 +104,46 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 ## <a name="snippets">🕸️ Snippets</a>
 
 <details>
+<summary><h4>Open XAMPP Software</h4></summary>
+
+  > Choose these modules to start:
+  > 
+  > ![xampp](https://drive.google.com/uc?export=view&id=1MaZx_BNTGF825tGRqm4aav16ggfK3gMp)
+  > 
+  > After that, click **Admin** action in **MySQL** module.
+  >
+  > If the window appears as shown in the browser, proceed to the next step.
+  >
+  > ![phpmyadmin](https://drive.google.com/uc?export=view&id=1eWiUBuPAoPiUPQTM8rTGlCcvTxMKCDrZ)
+
+</details>
+
+<details>
 <summary><h4>Clone the Project:</h4></summary>
 
-  > In your Desktop, open a command prompt of your choice (git bash, cmd, or any)
+  > **In your Desktop, open a command prompt of your choice (git bash, cmd, or any)**
   > ```bash
   > git clone https://link-to-project
-  > ```
-  > Go to the project directory
-  > ```bash
   > cd project-name
   > ```
   > Open folder to VS Code
   > ```bash
   > code .
+  > ```
+
+</details>
+
+<details>
+<summary><h4>Start Flask Server (Camera API)</h4></summary>
+
+  > **Open a terminal inside VS Code**
+  > Go to algo folder
+  > ```bash
+  > cd algo
+  > ```
+  > Install modules
+  > ```bash
+  > pip install 'C:\{**your-download-directory**}\requirements.txt'
   > ```
 
 </details>
