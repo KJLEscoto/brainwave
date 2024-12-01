@@ -131,7 +131,7 @@ Make sure you have the following installed on your computer/device:
 ![landing-page](https://drive.google.com/uc?export=view&id=17uKbu88C3i3U5fEAU_o6aHezuaVQSuxZ)
 
 <h4>🔑 Login Credentials</h4>
-<p>Use these accounts to access the system. <span style="color:red;">NOTE:</span> Each role has unique functionalities.</p>
+<p>Use these accounts to access the system. <span style="color: #FF0000;"><strong>NOTE:</strong></span> Each role has unique functionalities.</p>
 
 <details>
 <summary><code>Client</code></summary>
