@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <img src="https://drive.google.com/uc?export=view&id=1W2QKxaTIvY17qPVfIZuYhuUroqIhTSP7" alt="LOGO" width="600" />
+    <img src="https://drive.google.com/uc?export=view&id=1Lje7LXaRNeDoJjrBVTAxhnagncxGdSu7" alt="LOGO" width="600" />
   <br />
   <br />
 
