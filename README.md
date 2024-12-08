@@ -89,11 +89,17 @@ Run Project Locally
   > ```
   > Activate environment
   > ```bash
-  > env\\Scripts\\activate
+  > env\Scripts\activate
   > ```
   > Load the motions and Start the Server 
   > ```bash
   > python app.py
+  > ```
+  >
+  >
+  > **If there's a module not found**
+  > ```bash
+  > pip install [module-name]
   > ```
 </details>
 
