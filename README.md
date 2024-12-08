@@ -81,7 +81,15 @@ Run Project Locally
   > ```
   > Install modules and change the path directory
   > ```bash
-  > pip install 'C:\[path-directory]\requirements.txt'
+  > pip install -r requirements.txt
+  > ```
+  > Create environment
+  > ```bash
+  > python -m venv env
+  > ```
+  > Activate environment
+  > ```bash
+  > env\\Scripts\\activate
   > ```
   > Load the motions and Start the Server 
   > ```bash
